@@ -14,6 +14,7 @@ public class ButtonPanel extends JPanel {
                 System.out.println("Hello");
 
             }
+
         });
         add(but1);
     }
